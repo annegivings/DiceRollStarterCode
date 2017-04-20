@@ -1,3 +1,3 @@
 # DiceRollStarterCode
 
-HTML, CSS, JS
+Don't forget to add the jQuery library!
